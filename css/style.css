@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Athletic';
+    src: url(../fonts/NewAthletic/New\ Athletic\ M54.ttf);
+}
+
+body{
+    font-family: 'Athletic', Times, serif;
+    background-image: url(../img/Background.jpg);
+    background-size: cover;
+}
+
+.title{
+    background-color: #C4C4C4;
+    opacity: 0.5;
+    color: #005677;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+header{
+    background-color: #E6E6E6; 
+    background-image: url("../img/Header.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita_normal{
+    font-weight: bold;
+}
+
+main{
+    color: white;
+}
+
+.high{
+    height: 60px;
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+nav{
+    background-color:rgba(169, 176, 171, 0.5);
+    font-weight: bold;
+    text-align: center;
+}
+
+
