@@ -1,3 +1,3 @@
 # Mi-personal
 
-![imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![imagen](https://www.linuxadictos.com/wp-content/uploads/virtualbox-oracle.jpg)
